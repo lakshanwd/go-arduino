@@ -10,10 +10,8 @@ As long as `arduino` is not supporting `multi threading`, we can use [gobot](htt
 * arduino
 
 ### setup
-Install `Firmata`
-* Open `Arduino IDE`
-* Go to `File` > `Examples` > `Firmata` > `StandardFirmata`
-
-execute following     
-
-    go run arduino.go
+* Install `Firmata`
+    * Open `Arduino IDE`
+    * Go to `File` > `Examples` > `Firmata` > `StandardFirmata`
+* execute following
+    * `go run arduino.go`
