@@ -11,6 +11,9 @@ As long as `arduino` is not supporting `multi threading`, we can use [gobot](htt
 
 ### setup
 Install `Firmata`
+* <b>Unplug</b> `Arduino UNO` from USB and power
+* Create following circuit
+![Image](supunz/go-arduino/master/circuit.svg?raw=true)
 * Open `Arduino IDE`
 * Go to `File` > `Examples` > `Firmata` > `StandardFirmata`
 
