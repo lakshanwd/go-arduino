@@ -15,6 +15,6 @@ As long as `arduino` is not supporting `multi threading`, we can use [gobot](htt
     * Open `Arduino IDE`
     * Go to `File` > `Examples` > `Firmata` > `StandardFirmata`
 * Setup Circuit
-    * Create following Circuit ![Image](../master/circuit.svg?raw=true)
+    * Create following Circuit ![Image](../master/circuit.svg)
 * execute following
     * `go run arduino.go`
